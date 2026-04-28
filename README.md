@@ -6,6 +6,14 @@
 
 ## Содержимое репозитория
 
-## Диаграмма прецедентов
+## Диаграмма прецедентов (Use Case)
 
-![Диаграмма прецедентов](images/Диаграмма_прецедентов.drawio.png)
+![Use Case Diagram](images/use-case.png)
+
+## Диаграмма развёртывания (Deployment)
+
+![Deployment Diagram](images/deployment.png)
+
+## Техническое задание
+
+📄 [Скачать ТЗ (DOCX)](ТЗ_Портфолио_Анна_Волкова.docx)
