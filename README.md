@@ -9,7 +9,7 @@
 ## Диаграмма прецедентов (Use Case)
 Показывает, кто пользуется сайтом и что они могут делать:
 
-![Use Case Diagram](images/use-case.png)
+![Use Case Diagram](images/use-case.drawio.png)
 
 ## Диаграмма развёртывания (Deployment)
 Показывает техническую архитектуру:
