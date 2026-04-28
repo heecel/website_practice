@@ -7,13 +7,23 @@
 ## Содержимое репозитория
 
 ## Диаграмма прецедентов (Use Case)
+Показывает, кто пользуется сайтом и что они могут делать:
 
 ![Use Case Diagram](images/use-case.png)
 
 ## Диаграмма развёртывания (Deployment)
+Показывает техническую архитектуру:
 
 ![Deployment Diagram](images/deployment.png)
 
 ## Техническое задание
 
 📄 [Скачать ТЗ (DOCX)](site_tz.docx)
+
+## Технологии проекта
+- **LAMP** (Linux, Apache, MySQL, PHP)
+- **WordPress**
+- **GitHub**
+
+## Дата
+28 апреля 2026 г.
