@@ -45,18 +45,18 @@
 ## Скриншоты
 
 ### 1. Главная страница с меню
-![Главная](photos/mainpage.png)
+![Главная](images/mainpage.png)
 
 ### 2. Список всех страниц в админке
-![Список страниц](photos/allpages.png)
+![Список страниц](images/allpages.png)
 
 ### 3. Страница «Контакты» с формой обратной связи
-![Страница Контакты](photos/contactformfull.png)
-![Форма контактов](photos/contactform.png)
-![Рабочая Форма контактов](photos/contactformworking.png)
+![Страница Контакты](images/contactformfull.png)
+![Форма контактов](images/contactform.png)
+![Рабочая Форма контактов](images/contactformworking.png)
 
 ### 4. Список трёх статей в разделе «Записи»
-![Список статей](photos/allworks.png)
+![Список статей](images/allworks.png)
 
 ## Вывод
 
